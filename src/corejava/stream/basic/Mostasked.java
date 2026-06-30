@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class SortEmployee {
+public class Mostasked {
     static void main() {
         List<Employee> employees = EmployeeData.getEmployees();
       //  1. sort by dept
