@@ -1,4 +1,4 @@
-package java21;
+package corejava.java21;
 
 import java.util.concurrent.Executors;
 

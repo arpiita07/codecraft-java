@@ -1,4 +1,4 @@
-package stream.basic;
+package corejava.stream.basic;
 
 import java.time.LocalDate;
 import java.util.List;

@@ -1,4 +1,4 @@
-package corejava.practice;
+package corejava.oopsconcepts;
 
 public class Staticblockexecution {
 

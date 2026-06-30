@@ -1,4 +1,4 @@
-package corejava.practice;
+package corejava.oopsconcepts;
 
  final class Immutable {
     private final String empid; // make all field final and private(can not access directly)
