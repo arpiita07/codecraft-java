@@ -14,7 +14,7 @@ public class EmployeeData {
                             "Bangalore", 4.5, true,
                             Arrays.asList("Java", "Spring", "SQL")),
 
-                    new Employee(102, "Bob", 35, "Male", "HR", "Manager",
+                    new Employee(102, "Swagat", 35, "Male", "HR", "Manager",
                             95000, LocalDate.of(2017, 3, 20),
                             "Hyderabad", 4.2, true,
                             Arrays.asList("Recruitment", "Leadership")),

@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Mostasked {
-    static void main() {
+   public static void main() {
         List<Employee> employees = EmployeeData.getEmployees();
       //  1. sort by dept
         //employees.stream().sorted(Comparator.comparing(Employee::getDepartment)).forEach(System.out::println);
