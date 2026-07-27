@@ -1,4 +1,4 @@
-package corejava.interview;
+package corejava.array;
 
 import java.util.HashSet;
 import java.util.Set;

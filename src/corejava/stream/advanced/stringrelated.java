@@ -26,8 +26,5 @@ public class stringrelated {
                         Function.identity(), LinkedHashMap::new, Collectors.counting()))
                 .entrySet().stream().filter(e -> e.getValue()==1)
                 .findFirst().get().getKey();
-
-
-       // 6. Longest Zero Sum Subarray ⭐⭐⭐⭐⭐ 15 -2 2 -8 1 7 10 23  Output 5  HashMap + Prefix Sum
     }
 }
