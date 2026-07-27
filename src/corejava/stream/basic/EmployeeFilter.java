@@ -97,7 +97,7 @@ public class EmployeeFilter {
         List<Employee> op5 = emp.stream().filter(e -> e.getSalary() > 50000).distinct().toList();
         System.out.println(op5);
         //29.  Find distinct employee names.
-        
+
 
 
     }
